@@ -1,0 +1,13 @@
+aqua 
+black 
+blue 
+brown 
+green 
+grey 
+orange 
+pink 
+purple 
+red
+sepia
+white
+yellow

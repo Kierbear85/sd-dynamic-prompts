@@ -1,5 +1,4 @@
 apron
-armor
 armored dress
 bikini armor
 band uniform
@@ -9,15 +8,11 @@ hood
 shoulder cape
 cassock
 cheerleader
-costume
 ghost costume
 gym uniform
-buruma
 habit
 harem outfit
 loincloth
-hazmat suit
-hev suit
 kigurumi
 animal costume
 bear costume
@@ -38,11 +33,8 @@ tiger costume
 maid
 miko
 nontraditional miko
-military uniform
 overalls
 pajamas
-pilot suit
-plugsuit
 sailor
 santa costume
 school uniform
@@ -51,14 +43,8 @@ sailor dress
 gakuran
 meiji schoolgirl uniform
 shosei
-suit
-business suit
-pant suit
 skirt suit
-tuxedo
-track suit
 sweatpants
 sweatshirt
 tutu
 waitress
-cowboy western

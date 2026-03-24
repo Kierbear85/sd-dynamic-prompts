@@ -1,5 +1,3 @@
-bikesuit
-racing suit
 bodystocking
 bodysuit
 jumpsuit
@@ -23,9 +21,6 @@ sports bikini
 tankini
 criss-cross halter
 swim briefs
-jammers
-legskin
-rash guard
 robe
 bathrobe
 open robe
