@@ -1,12 +1,19 @@
-dress flower
-flower trim
-frills
-fur trim
-gathers
-gold trim
-lace trim
-ribbon trim
-see-through
-silver trim
-taut shirt
-torn clothes
+Babydoll
+Chemise
+Teddy
+Bodysuit
+Playsuit (lingerie version)
+Slip dress
+Camisole & short set
+Camisole & panty set
+Bralette set
+Bustier set
+Corset set
+Nightgown
+Negligee
+Satin pajama set
+Lace robe set
+Silk slip
+Kimono-style robe
+Sheer robe
+Dressing gown
