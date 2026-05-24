@@ -1,50 +1,55 @@
-apron
 armored dress
-bikini armor
 band uniform
-cape
-capelet
-hood
-shoulder cape
+battle uniform
+bikini armor
+bodysuit
+butler uniform
 cassock
-cheerleader
-ghost costume
+catsuit
+cheerleader uniform
+cocktail dress
+corset dress
+detective outfit
+dress uniform
+evening gown
+fantasy armor
+gothic dress
+gothic lolita
 gym uniform
-habit
-harem outfit
-loincloth
-kigurumi
-animal costume
-bear costume
-boar costume
-cat costume
-cow costume
-dog costume
-monkey costume
-mouse costume
-panda costume
-penguin costume
-pig costume
-rabbit costume
-reindeer costume
-seal costume
-sheep costume
-tiger costume
-maid
-miko
-nontraditional miko
-overalls
+harness outfit
+hooded robe
+idol costume
+kimono
+knight armor
+maid outfit
+military uniform
+miko outfit
+ninja outfit
+nurse uniform
+office suit
 pajamas
-sailor
-santa costume
+pilot uniform
+pirate outfit
+priestess robes
+qipao
+raincoat outfit
 school uniform
+sci-fi bodysuit
 serafuku
-sailor dress
-gakuran
-meiji schoolgirl uniform
-shosei
+shrine maiden outfit
+skater outfit
 skirt suit
-sweatpants
-sweatshirt
-tutu
-waitress
+spacesuit
+sports uniform
+steampunk outfit
+streetwear outfit
+sundress
+swimsuit
+tactical gear
+tuxedo
+varsity outfit
+victorian dress
+waitress uniform
+wedding dress
+witch outfit
+yukata
