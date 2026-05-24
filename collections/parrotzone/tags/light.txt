@@ -5,16 +5,10 @@ bioluminiscent
 candle light
 dense light rays
 dynamic lighting
-glow in the dark
 glowwave
 golden hour
-holographic
-holography
-iridescence
 lighting
 moody lighting
-neon
-neon pastel
 polarized light
 radiant
 refraction
