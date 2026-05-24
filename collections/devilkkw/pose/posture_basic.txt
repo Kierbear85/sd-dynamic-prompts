@@ -1,20 +1,23 @@
-kneeling
-one knee
-lying
-fetal position
-on back
-on side
-on stomach
+standing
 sitting
-indian style
-hugging own legs
-lotus position
-seiza
+crouching
+kneeling
+lying on back
+lying on side
+lying on stomach
+reclining
+leaning forward
+leaning backward
 sitting on lap
-sitting on person
-straddling
-thigh straddling
-upright straddle
-wariza
-yokozuwari
-crossed legs
+sitting cross-legged
+sitting with legs stretched
+sitting with knees up
+sitting upright
+kneeling upright
+half-kneeling
+resting on elbows
+prone position
+supine position
+curled up
+relaxed pose
+balanced stance
