@@ -5,3 +5,21 @@ from below
 panorama
 perspective
 pov
+looking up at viewer
+looking down at viewer
+viewer above subject
+viewer below subject
+viewed from the side
+viewed from behind
+viewed through window
+through-the-legs shot
+overhead camera
+security camera angle
+selfie angle
+mirror reflection
+reflection POV
+hidden observer POV
+cinematic framing
+surveillance perspective
+handheld camera
+action cam perspective
