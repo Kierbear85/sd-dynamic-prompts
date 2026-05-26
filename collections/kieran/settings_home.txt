@@ -1,0 +1,50 @@
+Living Room
+Master Bedroom
+Guest Bedroom
+Kitchen
+Dining Room
+Home Office
+Family Room
+Hallway / Corridor
+Staircase Landing
+Entryway / Foyer
+Mudroom
+Laundry Room
+Bathroom (Main)
+Powder Room
+Basement (Finished)
+Attic Space
+Garage
+Patio / Deck
+Backyard Lawn
+Front Yard
+Garden Bed
+Flower Border
+Patio Seating Area
+Kitchen Island Nook
+Dining Table Setting
+Living Room Fireplace
+Reading Nook (Specific Spot)
+Kitchen Countertop
+Bathroom Vanity Area
+Staircase Railing
+Sunroom
+Porch (Front)
+Covered Porch (Back)
+Patio Grill Area
+Potted Plant Collection
+Lawn Swing
+Tool Shed
+Backyard Fire Pit
+Man Cave / Den
+Home Gym Area
+Window Seat
+Kitchen Window View
+Dining Room Window
+Mudroom Bench
+Hallway Mirror
+Basement Bar Area
+Attic Storage Space
+Garage Bay
+Backyard Swing Set
+Front Porch Steps
