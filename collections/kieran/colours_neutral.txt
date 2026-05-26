@@ -1,0 +1,12 @@
+Black
+White
+Ivory
+Cream
+Beige
+Taupe
+Charcoal Grey
+Light Grey
+Silver
+Gold (Metallic)
+Bronze (Metallic)
+Copper (Metallic)
