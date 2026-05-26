@@ -4,3 +4,37 @@ Sandy Beach
 Misty Mountain Peak
 Desert Landscape
 Botanical Garden
+Tropical Paradise
+Haunted Forest
+Golden Hour Field
+Alpine Meadow
+Vine-Covered Wall
+Wildflower Meadow
+Coastal Cliffs
+Riverbank
+Swamp/Marshland
+Canyon Interior
+Mossy Woodland
+Pine Forest
+Orchard Grove
+Seaside Pier
+Volcanic Landscape
+Bamboo Grove
+Rocky Shoreline
+Thicket/Brushland
+Valley Floor
+High Altitude Tundra
+Palm Beach Promenade
+Rainy Rainforest
+Hillsides (Rolling)
+Meadow at Dawn
+Clear Lake Shore
+Stone Garden
+Redwood Forest
+Swamp Edge
+Sunny Orchard
+Wild Prairie
+Coastal Dunes
+Treed Hillside
+Fjord Edge
+River Delta
