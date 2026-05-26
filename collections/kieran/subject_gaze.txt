@@ -1,0 +1,22 @@
+Looking at Viewer
+Looking Directly Forward
+Looking Off-Camera Right
+Looking Off-Camera Left
+Looking Upward
+Looking Downward
+Gazing (Soft, unfocused, dreamy)
+Staring (Intense, focused, fixed)
+Wistfully (Looking away with longing)
+Defiantly (Looking at the viewer with challenge)
+Intently (Focused on a specific, unseen point)
+Pensive (Thoughtful, distant focus)
+Vacant (Eyes open, but unfocused/blank)
+Seductive Gaze
+Aloof Gaze (Looking away dismissively)
+Engaged Gaze (Direct, inviting connection)
+Searching Gaze (Scanning the environment)
+Curious Gaze
+Over the Shoulder Gaze
+Downward Glance
+Upward Glance
+Looking away
