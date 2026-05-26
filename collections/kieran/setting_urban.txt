@@ -5,3 +5,33 @@ Concrete Jungle
 Minimalist Studio
 Busy Crosswalk
 Rain-Slicked Street
+Industrial Warehouse
+Skyscraper Plaza
+Subway Platform
+Alleyway Entrance
+Modern Park Bench
+Graffiti Wall
+Downtown Boulevard
+Overpass/Highway View
+Bar District
+Brick Facade
+Government Plaza
+High-Rise Balcony
+Tiled Metro Station
+Pavement Street Corner
+Cobblestone Square
+Construction Site
+Art District Gallery
+Waterfront Boardwalk
+Tattoo Shop Alley
+Glass Tower Lobby
+Shinjuku Intersection
+Brutalist Architecture Plaza
+Street Food Market
+Urban Garden
+Transit Hub
+Factory District
+Skyline View (General)
+Underground Parking Garage
+Tiled Sidewalk Walkway
+Modern Train Station
