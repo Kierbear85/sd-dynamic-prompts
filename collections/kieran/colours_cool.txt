@@ -1,0 +1,11 @@
+Blue (Classic)
+Navy (Dark Blue)
+Royal Blue (Bright Blue)
+Sapphire (Deep Blue)
+Sky Blue (Pale Blue)
+Teal (Blue-Green)
+Aqua (Light Blue-Green)
+Cyan (Bright Blue-Green)
+Slate Blue
+Periwinkle (Pale Blue/Purple)
+Indigo (Deep Blue/Violet)
