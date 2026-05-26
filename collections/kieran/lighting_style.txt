@@ -1,0 +1,23 @@
+Golden Hour
+Blue Hour
+Midday Sun
+Overcast
+Dusk
+Dawn
+Hazy Light
+Sun Flare
+Rim Lighting
+Backlit
+Side Lighting
+Top Down Lighting
+Softbox Lighting
+Volumetric Lighting
+God Rays
+Ethereal Light
+Moody Lighting
+Sepia Tone
+Cool Tones
+Warm Tones
+Electric Blue
+High Key
+Low Key
