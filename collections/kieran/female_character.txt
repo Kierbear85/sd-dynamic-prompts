@@ -8,13 +8,11 @@ Betty Rubble
 Jessica Rabbit
 Lois Griffin
 Meg Griffin
-Marge Simpson
 Lisa Simpson
 Maggie Simpson
 Francine Smith
 Hayley Smith
 Leela
-Turanga Leela
 Judy Jetson
 Jane Jetson
 Penelope Pitstop
@@ -29,9 +27,6 @@ Rei Hino
 Ami Mizuno
 Makoto Kino
 Minako Aino
-Bulma
-Android 18
-Chi-Chi
 Videl
 Launch
 Nami
@@ -204,7 +199,6 @@ Glimmer
 Catra
 Adora
 Entrapta
-Scorpia
 Poison Ivy
 Harley Quinn
 Jessica Drew
