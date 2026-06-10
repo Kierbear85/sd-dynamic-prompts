@@ -3,8 +3,6 @@ Blouse
 Shirt
 Blouse Top
 Shell Top
-Bodysuit
-Camisole
 Tank Top
 Crop Top
 Tunic
