@@ -1,0 +1,11 @@
+__STANDARD/CLOTHES/Accessories__
+__STANDARD/CLOTHES/Avant_Garde__
+__STANDARD/CLOTHES/Casual_Daywear__
+__STANDARD/CLOTHES/Evening_Wear__
+__STANDARD/CLOTHES/Footwear_Accessories__
+__STANDARD/CLOTHES/Jackets_Outerwear__
+__STANDARD/CLOTHES/Knitwear__
+__STANDARD/CLOTHES/Nightwear__
+__STANDARD/CLOTHES/Professional_Attire__
+__STANDARD/CLOTHES/Streetwear__
+__STANDARD/CLOTHES/Swimwear__

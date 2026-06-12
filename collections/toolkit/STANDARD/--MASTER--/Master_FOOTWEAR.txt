@@ -1,0 +1,10 @@
+__STANDARD/FOOTWEAR/Athletic__
+__STANDARD/FOOTWEAR/Avant_Garde__
+__STANDARD/FOOTWEAR/Boots__
+__STANDARD/FOOTWEAR/Casual_Sandals__
+__STANDARD/FOOTWEAR/Casual_Sneakers__
+__STANDARD/FOOTWEAR/Evening_Sandals__
+__STANDARD/FOOTWEAR/Gothic_Edgy__
+__STANDARD/FOOTWEAR/Home_Comfort__
+__STANDARD/FOOTWEAR/Loafers_Mules__
+__STANDARD/FOOTWEAR/Professional_Shoes__

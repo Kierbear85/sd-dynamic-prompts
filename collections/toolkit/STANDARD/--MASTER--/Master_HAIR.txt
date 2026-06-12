@@ -1,0 +1,10 @@
+__STANDARD/HAIR/Bun__
+__STANDARD/HAIR/Classic__
+__STANDARD/HAIR/Curly__
+__STANDARD/HAIR/LongHair__
+__STANDARD/HAIR/Natural__
+__STANDARD/HAIR/Ponytail__
+__STANDARD/HAIR/ShortHair__
+__STANDARD/HAIR/Straight__
+__STANDARD/HAIR/Styled__
+__STANDARD/HAIR/Wavy__

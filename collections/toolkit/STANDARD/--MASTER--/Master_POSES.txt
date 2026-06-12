@@ -1,0 +1,10 @@
+__STANDARD/POSES/Dancing__
+__STANDARD/POSES/Reading__
+__STANDARD/POSES/Relaxed__
+__STANDARD/POSES/Running__
+__STANDARD/POSES/Sitting__
+__STANDARD/POSES/Sporty__
+__STANDARD/POSES/Standing__
+__STANDARD/POSES/Thoughtful__
+__STANDARD/POSES/Walking__
+__STANDARD/POSES/Working__
