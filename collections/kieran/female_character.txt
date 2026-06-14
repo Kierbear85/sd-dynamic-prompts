@@ -57,8 +57,6 @@ Harley Quinn
 Catwoman
 Vixen
 Zatanna
-Power Girl
-Jessica Cruz
 Lois Lane
 Princess Bubblegum
 Marceline
@@ -70,7 +68,6 @@ Wendy Corduroy
 Pacifica Northwest
 Eliza Thornberry
 Debbie Thornberry
-Helga Pataki
 Phoebe Heyerdahl
 Angelica Pickles
 Susie Carmichael
