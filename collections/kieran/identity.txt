@@ -2,34 +2,21 @@ adventurer
 agent
 alchemist
 ambassador
-animal trainer
 archaeologist
 architect
 artist
 assassin
 astronaut
 athlete
-baker
 bandit
-barista
-beekeeper
 blacksmith
 bodyguard
 bounty hunter
 captain
-caretaker
-cartographer
-celebrity
-chef
-chemist
 cleric
-collector
-comedian
 commander
 courier
-cowboy
 craftsperson
-cryptographer
 cultist
 cybernetic operative
 dancer
@@ -42,11 +29,6 @@ duelist
 engineer
 entertainer
 explorer
-farmer
-firefighter
-fortune teller
-gambler
-gardener
 ghost hunter
 gladiator
 guide
@@ -54,16 +36,8 @@ hacker
 healer
 historian
 hunter
-illusionist
-inventor
-journalist
-judge
 knight
-librarian
 mage
-marine biologist
-mechanic
-merchant
 messenger
 miner
 monk
