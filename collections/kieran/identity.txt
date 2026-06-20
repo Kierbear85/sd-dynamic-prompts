@@ -1,0 +1,127 @@
+adventurer
+agent
+alchemist
+ambassador
+animal trainer
+archaeologist
+architect
+artist
+assassin
+astronaut
+athlete
+baker
+bandit
+barista
+beekeeper
+blacksmith
+bodyguard
+bounty hunter
+captain
+caretaker
+cartographer
+celebrity
+chef
+chemist
+cleric
+collector
+comedian
+commander
+courier
+cowboy
+craftsperson
+cryptographer
+cultist
+cybernetic operative
+dancer
+detective
+diplomat
+doctor
+dragon rider
+druid
+duelist
+engineer
+entertainer
+explorer
+farmer
+firefighter
+fortune teller
+gambler
+gardener
+ghost hunter
+gladiator
+guide
+hacker
+healer
+historian
+hunter
+illusionist
+inventor
+journalist
+judge
+knight
+librarian
+mage
+marine biologist
+mechanic
+merchant
+messenger
+miner
+monk
+musician
+mystic
+navigator
+noble
+occult investigator
+oracle
+outlaw
+painter
+paladin
+performer
+pharmacist
+photographer
+pilot
+pirate
+police officer
+politician
+priest
+professor
+programmer
+ranger
+researcher
+roboticist
+royal heir
+sailor
+samurai
+scholar
+scientist
+scout
+secret agent
+security officer
+shapeshifter
+shepherd
+shopkeeper
+smuggler
+socialite
+soldier
+sorcerer
+space explorer
+spy
+starship captain
+strategist
+student
+survivalist
+swordsman
+teacher
+technician
+templar
+thief
+time traveler
+tour guide
+treasure hunter
+veterinarian
+vigilante
+warrior
+witch
+wizard
+writer
+zoologist
