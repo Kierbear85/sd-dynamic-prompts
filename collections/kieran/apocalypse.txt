@@ -1,6 +1,6 @@
-abandoned city
-radioactive wasteland
-overgrown ruins
+abandoned city, destroyed buildings, destroyed roads, decay
+radioactive wasteland, deserted buildings, ruin
+overgrown ruins, overgrown foliage, running water
 deserted highway
 survivor settlement
 underground bunker
