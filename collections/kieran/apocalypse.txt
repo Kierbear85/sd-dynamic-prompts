@@ -1,20 +1,10 @@
-abandoned city, destroyed buildings, destroyed roads, decay
-radioactive wasteland, deserted buildings, ruin
-overgrown ruins, overgrown foliage, running water
-deserted highway
-survivor settlement
-underground bunker
-collapsed megacity
-flooded metropolis
-mutant territory
-reclaimed wilderness
-ruined shopping mall
-derelict military base
-quarantine zone
-scrap-built town
-ash-covered landscape
-sunken city
-fallen civilization
-toxic forest
-desolate coastline
-last refuge
+an abandoned city, scattered with ruined and decaying buildings
+overgrown ruins, overgrown with ancient foliage, stagnant collections of water
+a deserted highway, scattered with eons of built up dust, roadsigns fallen to ruin
+a survivor settlement, with mud buildings, dusty streets and villagers bustling about
+an underground bunker, dark and industrial, broken fluorescent lighting, heavy vault doors
+a collapsed megacity, ruined by an alien invasion, collapsed skyscrapers, ruinous craters in the background
+flooded metropolis, flooded streets, broken storefronts
+mutant territory, alien architecture, spare and unpopulated
+ruined shopping mall, decaying decorations, broken glass
+derelict military base, heavy vault doors, broken down vehicles scattered about the background
